@@ -23,7 +23,7 @@ pub mod default_code {
     /// To use the default_code log, you need to use 3 steps.
     /// At first you will create a new `Log`. (You can also create more than one log for different usage.)
     /// 
-    /// Just to remind, dont forget to import the [`default_log`](http://https://docs.rs/log_file/0.1.1/log_file/default_code)
+    /// Just to remind, dont forget to import the [`default_log`](http://https://docs.rs/log_file/0.1.0/log_file/default_code)
     /// ```rust
     /// use log_file::default_code::*;
     /// ```
@@ -91,7 +91,7 @@ pub mod default_code {
         seperator   :   String,
         elements    :   Vec<LogElement>
     }
-    /// An entry for the [`Log`](http://https://docs.rs/log_file/0.1.1/log_file/default_code/struct.Log.html)
+    /// An entry for the [`Log`](http://https://docs.rs/log_file/0.1.0/log_file/default_code/struct.Log.html)
     /// 
     /// # Examples
     /// At first we should create a `LogElement`
