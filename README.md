@@ -1,4 +1,4 @@
-<p align="center"><img src ="https://github.com/SnefDenGames/log_file/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src ="https://github.com/SnefDenGames/log_file/blob/master/logo.png?raw=true" style="width: 300px; height: 300px;" /></p>
 
 <p align="center">
     A log.txt writer
