@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2018"
 license = "MIT"
 description = "A simple lib to log the process in any rust project."
-documentation = "http://https://docs.rs/log_file/0.1.0/log_file"
+documentation = "https://docs.rs/log_file/0.1.0/log_file"
 repository = "https://github.com/SnefDenGames/log_file"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
